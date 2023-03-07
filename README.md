@@ -14,3 +14,6 @@ The sales analysis Excel dashboard is a customizable and dynamic tool designed t
 
 4.Amazon,Flipkart and Myntra are max contributing (80%).
 
+![Screenshot 2023-03-07 135826](https://user-images.githubusercontent.com/90436884/223366674-3b3b3158-734b-4a37-934f-ed2096749ffd.png)
+
+
